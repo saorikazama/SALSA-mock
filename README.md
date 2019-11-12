@@ -1,5 +1,6 @@
 # SALSAMock
 
+cssFWを利用して(テーマを使用せずに)、どこまで再現できるかをテストするリポジトリ。
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.18.
 
 ## Development server
